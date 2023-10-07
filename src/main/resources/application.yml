@@ -1,5 +1,6 @@
 server:
   port: 8080
+  adress: 192.168.1.108
 spring:
   application:
     #应用的名称，可选
